@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dani-digital
+- 👀 I’m interested in Web and Mobile App Development, especially with Angular, Ionic and Capacitor.
+- 🌱 I’m currently learning new stuff, as usual!
+- 📫 Drop me a message on LinkedIn.
